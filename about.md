@@ -29,20 +29,29 @@ Information is considered material if its omission or misstatement could influen
 
 ForeKoR Technologies Private Limited. (FTPL) is a Refurbisher providing certified and co-branded refurbished computers (PCs, laptops) and hardware which is augmented with reliable Pan- India branded stores. (Future Expansion Plans).
 
-## Enhancing Qualitative Characteristics
+## Expansion Opportunities
 
-### Verifiability
+### Rentals
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+	Laptops
+	Desktops
+	Servers
 
-### Comparability
+### Software Development.
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+	Health Care
+	Logistics
+	Agriculture
+	Edtech
+	Fintech 
+	Website Development and Hosting Services.
 
-### Understandability
+### IT asset disposition (ITAD)
 
 Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
 Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+
+### State-of-the-Art PC Refurbishing Facility.
 
 ---
 
