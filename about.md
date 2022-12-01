@@ -25,9 +25,9 @@ We are a group of professional and enthusiastic entrepreneurs, and an upcoming r
 
 Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
 
-## Faithful Representation
+## What we do?
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+ForeKoR Technologies Private Limited. (FTPL) is a Refurbisher providing certified and co-branded refurbished computers (PCs, laptops) and hardware which is augmented with reliable Pan- India branded stores. (Future Expansion Plans).
 
 ## Enhancing Qualitative Characteristics
 
