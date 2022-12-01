@@ -11,17 +11,15 @@ crimen habet Priamum nec.
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
-# Objectives
+# Vision and Mission 
 
-Financial accounting and financial reporting are often used as synonyms.
+•	Build a sustainable business enterprise and job opportunities to people who are underserved. 
+Our Effort is to bridge India’s Digital Divide and Be (stay) – Green
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
 
-## Relevance
+## About Us
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+We are a group of professional and enthusiastic entrepreneurs, and an upcoming reverse engineering startup based out of the silicon city of India, ForeKoR Technologies Private Limited enable, empower a new and modern India for bridging the significant digital divide issues in a green, eco-friendly, and cost-effective manner.
 
 > The ingredients of relevance are the predictive value and confirmatory value.
 
