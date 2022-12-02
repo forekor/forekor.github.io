@@ -28,23 +28,20 @@ ForeKoR Technologies Private Limited. (FTPL) is a Refurbisher providing certifie
 
 ### Rentals
 
-	Laptops
-	Desktops
-	Servers
+-	Laptops
+- Desktops
+- Servers
 
 ### Software Development.
 
-	Health Care
-	Logistics
-	Agriculture
-	Edtech
-	Fintech 
-	Website Development and Hosting Services.
+- Health Care
+- Logistics
+- Agriculture
+- Edtech
+- Fintech 
+- Website Development and Hosting Services.
 
 ### IT asset disposition (ITAD)
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
 
 ### State-of-the-Art PC Refurbishing Facility.
 
