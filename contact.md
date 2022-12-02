@@ -6,6 +6,10 @@ description: Contact
 
 Our office address is below .
 
+Deshpande Nagar, Hubli
+
+Open hours
+
 | Day       | Opening Hours   |
 | --------- | --------------- |
 | Tuesday   | 8:30am - 5:00pm |
