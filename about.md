@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-LWhy trust us
+Why trust us
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
