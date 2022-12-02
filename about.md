@@ -19,9 +19,6 @@ Our Effort is to bridge India’s Digital Divide and Be (stay) – Green
 
 We are a group of professional and enthusiastic entrepreneurs, and an upcoming reverse engineering startup based out of the silicon city of India, ForeKoR Technologies Private Limited enable, empower a new and modern India for bridging the significant digital divide issues in a green, eco-friendly, and cost-effective manner.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
 
 ## What we do?
 
